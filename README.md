@@ -10,7 +10,7 @@
 
 **Mac-Model:** iMac18,1
 
-**OS:** macOS Monterey 12.7.2
+**OS:** macOS Ventura 13.6
 
 **CPU:** Intel i5-7500 3.40GHz
 
