@@ -8,6 +8,8 @@
 
 **Model:** EliteDesk 800 G3 65W
 
+**Mac-Model:** iMac18,1
+
 **OS:** macOS Monterey 12.7.2
 
 **CPU:** Intel i5-7500 3.40GHz
