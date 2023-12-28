@@ -1,5 +1,4 @@
-
-![alt text]([http://url/to/img.png](https://github.com/MrrZed0/HP_EliteDesk_800_G3_Hackintosh/blob/main/Untitled-2%20copy.jpg))
+![Untitled-2 copy](https://github.com/MrrZed0/HP_EliteDesk_800_G3_Hackintosh/assets/154046655/c5b0bd10-b4c1-43ff-a76f-78f6a73b26a3)
 
 # HP_EliteDesk_800_G3_Hackintosh
 
