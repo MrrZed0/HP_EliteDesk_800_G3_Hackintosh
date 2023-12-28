@@ -1,3 +1,6 @@
+
+![alt text]([http://url/to/img.png](https://github.com/MrrZed0/HP_EliteDesk_800_G3_Hackintosh/blob/main/Untitled-2%20copy.jpg))
+
 # HP_EliteDesk_800_G3_Hackintosh
 
 ## Hardware:
